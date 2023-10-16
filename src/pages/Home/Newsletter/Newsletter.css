@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+.name-bold{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-news{
+    background-image: url(../../../assets/call-to-action-v2.jpg);
+    background-repeat: no-repeat;
+    height: 584px;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
